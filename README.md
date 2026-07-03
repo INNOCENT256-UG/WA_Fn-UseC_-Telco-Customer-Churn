@@ -145,41 +145,9 @@ This project analyzes **7,043 customer records** from a telecommunications compa
 *Insight: Fiber optic customers churn at 41.9%*
 
 ---
-
-## 🎓 Skills Demonstrated
-
-### Technical Skills
-- ✅ Data cleaning and preprocessing
-- ✅ Exploratory data analysis (EDA)
-- ✅ Statistical analysis (correlation, hypothesis testing)
-- ✅ Outlier detection (IQR, Z-score)
-- ✅ Feature engineering (6 techniques)
-- ✅ Data visualization (6 professional charts)
-- ✅ Business intelligence and segmentation
-- ✅ Financial impact calculation
-
-### Business Skills
-- ✅ Problem definition and scoping
-- ✅ Customer segmentation
-- ✅ ROI calculation and business case development
-- ✅ Actionable recommendation formulation
-- ✅ Stakeholder communication
-
-### Tools & Technologies
-- ✅ Python (Pandas, NumPy, Matplotlib, Seaborn, Scipy)
-- ✅ Jupyter Notebooks
-- ✅ Git version control
-- ✅ Statistical analysis
 - ✅ Data storytelling
 
 ## 🎯 Interview Preparation(GUIDE)
-
-This project demonstrates:
-1. **Technical proficiency** in Python data analysis
-2. **Business acumen** - translated data into $328K savings
-3. **Communication skills** - clear visualizations and recommendations
-4. **Problem-solving** - systematic approach to complex problem
-5. **Attention to detail** - caught hidden missing values
 
 **Common Interview Questions:** See [PORTFOLIO_QA.md](PORTFOLIO_QA.md) for 27 detailed Q&A
 
