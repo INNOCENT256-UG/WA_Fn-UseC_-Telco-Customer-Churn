@@ -196,7 +196,7 @@ This project analyzes **7,043 customer records** from a telecommunications compa
 *Insight: Higher monthly charges correlate with increased churn*
 
 ### 6. Churn by Internet Service
-![Churn by Internet](visualizations/06_churn_by_internet_service.png)
+![Churn by Internet](Graph/Churn%20Rate%20By%20internet%20Service.png)
 *Insight: Fiber optic customers churn at 41.9%*
 
 ---
