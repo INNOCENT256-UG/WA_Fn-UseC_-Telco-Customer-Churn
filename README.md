@@ -1,4 +1,4 @@
-## 👋 Hi, I'm INNOCENT WATSALA
+## 👋 Hi, I'm Innocent Watsala
 
 ### 📊 Data Analyst | Business Intelligence | Python
 
@@ -88,29 +88,6 @@ This project analyzes **7,043 customer records** from a telecommunications compa
 | Implementation Cost | $200K-400K |
 | **First Year ROI** | **82-164%** |
 
-### Recommended Actions (Prioritized)
-
-**Priority 1: Payment Optimization** ⭐
-- Incentivize automatic payments with 10% discount
-- Expected impact: 5-7% churn reduction
-- ROI: Immediate positive return
-
-**Priority 2: Contract Conversion**
-- Offer 20% discount for annual contracts
-- Expected impact: 15-20% churn reduction
-- Target: 2,876 month-to-month customers
-
-**Priority 3: Service Bundling**
-- Bundle Tech Support + Online Security
-- Expected impact: 8-10% churn reduction
-- Target: 2,088 customers without support
-
-**Priority 4: Senior Citizen Program**
-- Dedicated support line, simplified billing
-- Expected impact: 5-8% churn reduction
-- Target: 1,142 senior customers
-
----
 
 ## 🛠️ Technologies Used
 
@@ -141,38 +118,6 @@ This project analyzes **7,043 customer records** from a telecommunications compa
 ```
 
 ---
-
-## 📈 Analysis Workflow
-
-### Phase 1: Data Exploration & Cleaning
-- ✅ Loaded and inspected 7,043 customer records
-- ✅ Identified 11 missing values in TotalCharges
-- ✅ Validated data types and consistency
-- ✅ Detected outliers using IQR and Z-score methods
-
-### Phase 2: Exploratory Data Analysis
-- ✅ Analyzed distributions of numeric and categorical variables
-- ✅ Created 6 key visualizations
-- ✅ Identified correlations between features
-- ✅ Discovered bimodal tenure pattern (new vs loyal customers)
-
-### Phase 3: Feature Engineering
-- ✅ Created 6 new features:
-  - `tenure_group` - Customer lifecycle stage
-  - `avg_monthly_spend` - Normalized spending
-  - `has_internet` - Binary internet flag
-  - `num_addon_services` - Service adoption level
-  - `uses_auto_payment` - Payment behavior
-  - `contract_months` - Contract commitment
-
-### Phase 4: Business Insights
-- ✅ Identified 4 high-risk segments (40%+ churn)
-- ✅ Quantified financial impact ($136K/month loss)
-- ✅ Developed prioritized recommendations
-- ✅ Calculated ROI (82-164% first year)
-
----
-
 ## 📊 Visualizations
 
 ### 1. Churn Distribution
@@ -226,15 +171,6 @@ This project analyzes **7,043 customer records** from a telecommunications compa
 - ✅ Git version control
 - ✅ Statistical analysis
 - ✅ Data storytelling
-
----
-
-## 📝 Documentation
-
-- **[Analysis Guide](notebooks/)** - Complete step-by-step analysis
-- **[Portfolio Q&A](PORTFOLIO_QA.md)** - 27 interview questions & answers
-
----
 
 ## 🎯 Interview Preparation(GUIDE)
 
@@ -319,4 +255,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-```
