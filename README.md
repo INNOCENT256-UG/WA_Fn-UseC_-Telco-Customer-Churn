@@ -142,39 +142,6 @@ This project analyzes **7,043 customer records** from a telecommunications compa
 
 ---
 
-## 🚀 Getting Started
-HOW TO INSTALL
-
-### Prerequisites
-```bash
-Python 3.8 or higher
-pip package manager
-```
-
-### Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/telco-churn-analysis.git
-cd telco-churn-analysis
-```
-
-2. **Install dependencies**
-```bash
-pip install -r requirements.txt
-```
-
-3. **Run the analysis**
-```bash
-# Option 1: Run the complete guide
-python src/data_analysis_guide.py
-
-# Option 2: Open Jupyter notebooks
-jupyter notebook
-```
-
----
-
 ## 📈 Analysis Workflow
 
 ### Phase 1: Data Exploration & Cleaning
@@ -266,8 +233,6 @@ jupyter notebook
 
 - **[Analysis Guide](notebooks/)** - Complete step-by-step analysis
 - **[Portfolio Q&A](PORTFOLIO_QA.md)** - 27 interview questions & answers
-- **[Data Dictionary](data/README.md)** - Feature descriptions
-- **[Executive Summary](reports/executive_summary.pdf)** - One-page overview
 
 ---
 
@@ -305,7 +270,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **INNOCENT256**
 - GitHub: [INNOCENT256-UG](https://github.com/INNOCENT256-UG)
-- LinkedIn: [Watsala,Digital](https://linkedin.com/in/Watsala.Digital)
+- LinkedIn: [WatsalaDigital](https://linkedin.com/in/Watsala.Digital)
 - Email: watsala.digital.com.com
 
 ---
@@ -330,59 +295,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **📧 For questions or collaboration opportunities, feel free to reach out!**
 ```
 
----
-
-## 📋 requirements.txt
-
-Create this file for easy dependency installation:
-
-```txt
-# Data manipulation
-pandas==1.5.3
-numpy==1.23.5
-
-# Visualization
-matplotlib==3.6.2
-seaborn==0.12.2
-plotly==5.13.0
-
-# Statistical analysis
-scipy==1.9.3
-statsmodels==0.13.5
-
-# Machine learning (for future enhancements)
-scikit-learn==1.2.0
-xgboost==1.7.5
-imbalanced-learn==0.10.1
-
-# Jupyter
-jupyter==1.0.0
-jupyterlab==3.5.3
-notebook==6.5.2
-
-# Utilities
-python-dotenv==0.21.0
-tqdm==4.64.1
-
-# Testing
-pytest==7.2.1
-
-# Code quality
-black==23.1.0
-flake8==6.0.0
-pylint==2.17.2
-```
-
----
-
 ## 📄 LICENSE (MIT License)
-
-Create this file:
 
 ```
 MIT License
 
-Copyright (c) 2024 Your Name
+Copyright (c) 2024 INNOCENT WATSALA
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
