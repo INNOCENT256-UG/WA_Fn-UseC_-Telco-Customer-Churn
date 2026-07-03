@@ -192,7 +192,7 @@ This project analyzes **7,043 customer records** from a telecommunications compa
 *Insight: Month-to-month contracts have 42% churn vs 11% for two-year*
 
 ### 5. Monthly Charges vs Churn
-![Charges vs Churn](visualizations/05_charges_vs_churn.png)
+![Charges vs Churn](Graph/Churn%20Vs%20No%20Churn%20Monthly%20Charges.png)
 *Insight: Higher monthly charges correlate with increased churn*
 
 ### 6. Churn by Internet Service
