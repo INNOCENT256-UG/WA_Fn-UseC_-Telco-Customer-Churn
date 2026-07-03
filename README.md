@@ -188,7 +188,7 @@ This project analyzes **7,043 customer records** from a telecommunications compa
 *Insight: TotalCharges strongly correlated with tenure (0.83)*
 
 ### 4. Churn by Contract Type
-![Churn by Contract](visualizations/04_churn_by_contract.png)
+![Churn by Contract](Graph/Churn%20Rate%20By%20Contract%20Type.png)
 *Insight: Month-to-month contracts have 42% churn vs 11% for two-year*
 
 ### 5. Monthly Charges vs Churn
