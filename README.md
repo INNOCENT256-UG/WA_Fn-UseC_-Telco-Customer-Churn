@@ -184,7 +184,7 @@ This project analyzes **7,043 customer records** from a telecommunications compa
 *Insight: Bimodal tenure shows new vs loyal customer segments*
 
 ### 3. Correlation Heatmap
-![Correlation Heatmap](visualizations/03_correlation_heatmap.png)
+![Correlation Heatmap](Graph/Feature%20correlation%20Matrix.png)
 *Insight: TotalCharges strongly correlated with tenure (0.83)*
 
 ### 4. Churn by Contract Type
