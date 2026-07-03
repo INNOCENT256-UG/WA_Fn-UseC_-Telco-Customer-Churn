@@ -180,7 +180,7 @@ This project analyzes **7,043 customer records** from a telecommunications compa
 *Insight: Imbalanced dataset with 26.5% churn rate*
 
 ### 2. Numeric Feature Distributions
-![Numeric Distributions](visualizations/02_numeric_distributions.png)
+![Numeric Distributions](Graph/Customer%20Churn.png)
 *Insight: Bimodal tenure shows new vs loyal customer segments*
 
 ### 3. Correlation Heatmap
