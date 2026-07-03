@@ -176,7 +176,7 @@ This project analyzes **7,043 customer records** from a telecommunications compa
 ## 📊 Visualizations
 
 ### 1. Churn Distribution
-![Churn Distribution](visualizations/01_churn_distribution.png)
+![Churn Distribution](Graph/Monthly%20Charges%20Distribution.png)
 *Insight: Imbalanced dataset with 26.5% churn rate*
 
 ### 2. Numeric Feature Distributions
