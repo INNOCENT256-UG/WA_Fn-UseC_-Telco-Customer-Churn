@@ -1,3 +1,32 @@
+## 👋 Hi, I'm INNOCENT WATSALA
+
+### 📊 Data Analyst | Business Intelligence | Python
+
+I transform raw data into actionable business insights.
+
+**🔭 Currently Working On:**
+- Customer churn analysis and retention strategies
+- Predictive modeling for business forecasting
+- Data visualization and storytelling
+
+**🌱 Learning:**
+- Machine Learning (scikit-learn, XGBoost)
+- SQL for data extraction
+- Cloud platforms (AWS, GCP)
+
+**💼 Projects:**
+- [Telco Customer Churn Analysis](https://github.com/yourusername/telco-churn-analysis)- Identified $328K annual savings opportunity
+- [CRM](https://github.com/INNOCENT256-UG/Managing-Employee-Data-with-Intergrity)
+- [PK-Market-Price](https://github.com/INNOCENT256-UG/Analyzing-Paskistani-Food-Market-Prices-)
+- [PK-Market-Price](https://github.com/INNOCENT256-UG/SFO-Air-Traffic-Cargo-Statistics-Data-Analysis-Project)
+- [More projects coming soon...]
+
+**📫 Connect:**
+- LinkedIn: [Watsala.Digital](https://linkedin.com/in/Watsala.Digital)
+- Email: Watsala.Digital@gmail.com
+
+
+
 # 🎯 Telco Customer Churn Analysis
 
 **A comprehensive data analysis project identifying at-risk customer segments and retention strategies for a telecommunications company, potentially saving $328K annually.**
@@ -274,7 +303,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**INNOCENTDATAGUY256**
+**INNOCENT256**
 - GitHub: [INNOCENT256-UG](https://github.com/INNOCENT256-UG)
 - LinkedIn: [Watsala,Digital](https://linkedin.com/in/Watsala.Digital)
 - Email: watsala.digital.com.com
@@ -290,10 +319,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/INNOCENT256/Managing-Employee-Data-with-Intergrity?style=social)
-![GitHub forks](https://img.shields.io/github/forks/INNOCENT256-UG/Analyzing-Paskistani-Food-Market-Prices-?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/INNOCENT256-UG/SFO-Air-Traffic-Cargo-Statistics-Data-Analysis-Project?style=social)
 
+![GitHub stars](https://img.shields.io/github/stars/INNOCENT256-UG/telco-churn-analysis?style=social)
+![GitHub forks](https://img.shields.io/github/forks/INNOCENT256-UG/telco-churn-analysis?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/INNOCENT256-UG/telco-churn-analysis?style=social)
 ---
 
 **⭐ If you found this project helpful, please give it a star!**
