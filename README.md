@@ -320,10 +320,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
-## 🎤 My Elevator Pitch for GitHub
-
-> "This project analyzes telecommunications customer data to identify why customers leave and provides actionable retention strategies. Through data cleaning, exploratory analysis, and feature engineering, I discovered that month-to-month customers with fiber optic internet churn at 42% compared to 11% for annual contracts. My recommendations could reduce churn by 20%, saving $328K annually. The analysis demonstrates proficiency in Python, Pandas, statistical analysis, and business intelligence."
-
-
-
