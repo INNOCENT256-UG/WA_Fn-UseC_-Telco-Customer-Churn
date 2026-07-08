@@ -484,13 +484,4 @@ Before making your portfolio public:
 
 ---
 
-## 🎯 Next Steps
-
-please leave  a star 
-2. **This Week:** Record demo video, write blog post
-3. **This Month:** Share on LinkedIn, apply for jobs
-4. **Ongoing:** Add more projects, contribute to open source
-
----
-
-**Your portfolio is now ready to showcase your data analysis skills to the world! 🚀**
+## 🎯 See you next time
