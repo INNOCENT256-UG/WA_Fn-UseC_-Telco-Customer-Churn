@@ -143,10 +143,10 @@ This project analyzes **7,043 customer records** from a telecommunications compa
 ### 6. Churn by Internet Service
 ![Churn by Internet](Graph/Churn%20Rate%20By%20internet%20Service.png)
 *Insight: Fiber optic customers churn at 41.9%*
-https://github.com/INNOCENT256-UG/WA_Fn-UseC_-Telco-Customer-Churn/blob/main/Graph/Summary_report.png
 
 ### 7. Summary Dashboard
-![summary_Report].(Graph/Summary_report.png)
+![Summary_report](Graph/Summary_report.png)
+*Insight: Dashboard Summary
 ---
 - ✅ Data storytelling
 
