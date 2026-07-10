@@ -19,6 +19,7 @@ I transform raw data into actionable business insights.
 - [CRM](https://github.com/INNOCENT256-UG/Managing-Employee-Data-with-Intergrity)
 - [PK-Market-Price](https://github.com/INNOCENT256-UG/Analyzing-Paskistani-Food-Market-Prices-)
 - [SFO-Air-Traffic-Cargo-Statistics](https://github.com/INNOCENT256-UG/SFO-Air-Traffic-Cargo-Statistics-Data-Analysis-Project)
+- [Running-Local-LLMs-on-a-ThinkPad-T480](https://github.com/INNOCENT256-UG/Running-Local-LLMs-on-a-ThinkPad-T480)
 - [More projects coming soon...]
 
 **📫 Connect:**
