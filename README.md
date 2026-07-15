@@ -32,6 +32,10 @@ I transform raw data into actionable business insights.
 
 **A comprehensive data analysis project identifying at-risk customer segments and retention strategies for a telecommunications company, potentially saving $328K annually.**
 
+### Summary Dashboard
+![Summary_report](Graph/Churn%20dashboard.png)
+*Insight: Dashboard Summary
+
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-1.5%2B-green)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.12%2B-orange)
@@ -144,10 +148,6 @@ This project analyzes **7,043 customer records** from a telecommunications compa
 ### 6. Churn by Internet Service
 ![Churn by Internet](Graph/Churn%20Rate%20By%20internet%20Service.png)
 *Insight: Fiber optic customers churn at 41.9%*
-
-### 7. Summary Dashboard
-![Summary_report](Graph/Summary_report.png)
-*Insight: Dashboard Summary
 ---
 - ✅ Data storytelling
 
