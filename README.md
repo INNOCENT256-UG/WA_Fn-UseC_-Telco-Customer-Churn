@@ -32,8 +32,8 @@ I transform raw data into actionable business insights.
 
 **A comprehensive data analysis project identifying at-risk customer segments and retention strategies for a telecommunications company, potentially saving $328K annually.**
 
-### 7. Summary Dashboard
-![Summary_report](Graph/Summary_report.png)
+### Summary Dashboard
+![Summary_report](Graph/Churn%20dashboard.png)
 *Insight: Dashboard Summary
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
