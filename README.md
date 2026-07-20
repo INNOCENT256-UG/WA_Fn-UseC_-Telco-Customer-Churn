@@ -4,16 +4,6 @@
 
 I transform raw data into actionable business insights.
 
-**🔭 Currently Working On:**
-- Customer churn analysis and retention strategies
-- Predictive modeling for business forecasting
-- Data visualization and storytelling
-
-**🌱 Learning:**
-- Machine Learning (scikit-learn, XGBoost)
-- SQL for data extraction
-- Cloud platforms (AWS, GCP)
-
 **💼 Projects:**
 - [Telco Customer Churn Analysis](https://github.com/yourusername/telco-churn-analysis)- Identified $328K annual savings opportunity
 - [CRM](https://github.com/INNOCENT256-UG/Managing-Employee-Data-with-Intergrity)
