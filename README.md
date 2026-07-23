@@ -7,7 +7,7 @@ I transform raw data into actionable business insights.
 **💼 Projects:**
 - [Telco Customer Churn Analysis](https://github.com/yourusername/telco-churn-analysis)- Identified $328K annual savings opportunity
 - [CRM](https://github.com/INNOCENT256-UG/Managing-Employee-Data-with-Intergrity)
-- [PK-Market-Price](https://github.com/INNOCENT256-UG/Analyzing-Paskistani-Food-Market-Prices-)
+- [PK-Market-Price](https://github.com/INNOCENT256-UG/PK-Foods-Price-Analysis)Analyzing-Paskistani-Food-Market-Prices
 - [SFO-Air-Traffic-Cargo-Statistics](https://github.com/INNOCENT256-UG/-SFO-Air-Traffic-Cargo-Statistics-Data-Analysis-Project)
 - [Running-Local-LLMs-on-a-ThinkPad-T480](https://github.com/INNOCENT256-UG/Running-Local-LLMs-on-a-ThinkPad-T480)
 - [TITANIC_DATA_ANALYSIS](https://github.com/INNOCENT256-UG/TITANIC_DATA_ANALYSIS/tree/main)
