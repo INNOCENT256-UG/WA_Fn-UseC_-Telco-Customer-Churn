@@ -8,7 +8,7 @@ I transform raw data into actionable business insights.
 - [Telco Customer Churn Analysis](https://github.com/yourusername/telco-churn-analysis)- Identified $328K annual savings opportunity
 - [CRM](https://github.com/INNOCENT256-UG/Managing-Employee-Data-with-Intergrity) - A cleaned and structured HR/CRM employee dataset covering 20 employees across 11 countries and 10 departments. Prepared for analytics, reporting, and data pipeline projects.
 - [PK-Market-Price](https://github.com/INNOCENT256-UG/PK-Foods-Price-Analysis) -Analyzing-Paskistani-Food-Market-Prices
-- [SFO-Air-Traffic-Cargo-Statistics](https://github.com/INNOCENT256-UG/-SFO-Air-Traffic-Cargo-Statistics-Data-Analysis-Project)
+- [SFO-Air-Traffic-Cargo-Statistics](https://github.com/INNOCENT256-UG/-SFO-Air-Traffic-Cargo-Statistics-Data-Analysis-Project) - ransforming 26 years of raw SFO cargo operational data into actionable business intelligence — enabling data-driven decisions for airport operations, airline partnerships, and cargo route optimization.
 - [Running-Local-LLMs-on-a-ThinkPad-T480](https://github.com/INNOCENT256-UG/Running-Local-LLMs-on-a-ThinkPad-T480)
 - [TITANIC_DATA_ANALYSIS](https://github.com/INNOCENT256-UG/TITANIC_DATA_ANALYSIS/tree/main)-Titanic Survival Analysis
   
