@@ -2,6 +2,8 @@
 
 ### 📊 Data Analyst | Business Intelligence | Python
 
+🔗 [GitHub Profile](https://github.com/INNOCENT256-UG) | 📊 [Portfolio](https://github.com/INNOCENT256-UG?tab=repositories)
+
 I transform raw data into actionable business insights.
 
 **💼 Projects:**
