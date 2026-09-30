@@ -170,10 +170,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**INNOCENT256**
-- GitHub: [INNOCENT256-UG](https://github.com/INNOCENT256-UG)
-- LinkedIn: [WatsalaDigital](https://linkedin.com/in/Watsala.Digital)
-- Email: watsala.digital.com.com
+**Innocent Watsala**
+
+- 🌍 Based in United Arab Emirates
+- 📊 Data Analyst specializing in Excel, SQL, and Python
+- 🎯 Focused on data cleaning, EDA, and business intelligence
+- 💼 Career Goal: Business Analyst — bridging data and strategy
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:watsala.digital@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/INNOCENT256-UG)
 
 ---
 
