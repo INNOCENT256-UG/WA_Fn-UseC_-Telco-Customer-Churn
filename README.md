@@ -202,6 +202,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ If you found this project helpful, please give it a star!**
 
+**⭐ Ready to expand your portfolio? Check out my other projects:**
+- [SFO Air Traffic & Cargo Analysis](https://github.com/INNOCENT256-UG/-SFO-Air-Traffic-Cargo-Statistics-Data-Analysis-Project) — 26 years of operational logistics data
+- [Telco Customer Churn Analysis](https://github.com/INNOCENT256-UG/WA_Fn-UseC_-Telco-Customer-Churn) — Predictive modeling for retention
+- [Titanic Survival Analysis](https://github.com/INNOCENT256-UG/TITANIC_DATA_ANALYSIS) — Machine learning classification
+
 **📧 For questions or collaboration opportunities, feel free to reach out!**
 ```
 
