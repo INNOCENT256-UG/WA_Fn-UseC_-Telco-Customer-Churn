@@ -32,8 +32,10 @@ I transform raw data into actionable business insights.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-1.5%2B-green)
-![Seaborn](https://img.shields.io/badge/Seaborn-0.12%2B-orange)
-![Status](https://img.shields.io/badge/Status-Complete-success)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.12%2B-orange)    
+![Status](https://img.shields.io/badge/Status-Complete-success)   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
 
 ---
 
