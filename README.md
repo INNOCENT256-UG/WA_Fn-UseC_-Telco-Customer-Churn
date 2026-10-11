@@ -34,7 +34,16 @@ I transform raw data into actionable business insights.
 ![Pandas](https://img.shields.io/badge/Pandas-1.5%2B-green)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.12%2B-orange)    
 ![Status](https://img.shields.io/badge/Status-Complete-success)   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Updated-October_2026-blue?style=flat-square)
 
 
 ---
