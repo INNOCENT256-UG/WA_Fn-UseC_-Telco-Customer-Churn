@@ -96,8 +96,15 @@ This project analyzes **7,043 customer records** from a telecommunications compa
 | Implementation Cost | $200K-400K |
 | **First Year ROI** | **82-164%** |
 
+## 🧰 Tools & Technologies
+| Stage | Tool | Purpose |
+|-------|------|---------|
+| Data Storage / Querying | **MySQL** | [Joins, aggregation, window functions] |
+| Cleaning & Analysis | **Python (Pandas, NumPy)** | [Missing values, feature engineering] |
+| Quick Exploration / Reporting | **Excel** | [Pivot tables, summary sheets] |
+| Visualization | **Matplotlib / Plotly / Power BI** | [Charts and dashboards] |
+| Automation | **AI tools (ChatGPT / Claude / n8n)** | [Code assist, report drafting, workflow automation] |
 
-## 🛠️ Technologies Used
 
 ### Core Libraries
 - **Python 3.8+** - Primary programming language
@@ -111,16 +118,6 @@ This project analyzes **7,043 customer records** from a telecommunications compa
 - **Jupyter Notebook** - Interactive analysis
 - **Git** - Version control
 - **VS Code** - Code editor
-
-## 🧰 Tools & Technologies
-| Stage | Tool | Purpose |
-|-------|------|---------|
-| Data Storage / Querying | **MySQL** | [Joins, aggregation, window functions] |
-| Cleaning & Analysis | **Python (Pandas, NumPy)** | [Missing values, feature engineering] |
-| Quick Exploration / Reporting | **Excel** | [Pivot tables, summary sheets] |
-| Visualization | **Matplotlib / Plotly / Power BI** | [Charts and dashboards] |
-| Automation | **AI tools (ChatGPT / Claude / n8n)** | [Code assist, report drafting, workflow automation] |
-
 ---
 
 ## 🔬 Methodology
