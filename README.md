@@ -112,6 +112,24 @@ This project analyzes **7,043 customer records** from a telecommunications compa
 - **Git** - Version control
 - **VS Code** - Code editor
 
+## 🧰 Tools & Technologies
+| Stage | Tool | Purpose |
+|-------|------|---------|
+| Data Storage / Querying | **MySQL** | [Joins, aggregation, window functions] |
+| Cleaning & Analysis | **Python (Pandas, NumPy)** | [Missing values, feature engineering] |
+| Quick Exploration / Reporting | **Excel** | [Pivot tables, summary sheets] |
+| Visualization | **Matplotlib / Plotly / Power BI** | [Charts and dashboards] |
+| Automation | **AI tools (ChatGPT / Claude / n8n)** | [Code assist, report drafting, workflow automation] |
+
+---
+
+## 🔬 Methodology
+1. **Data Collection:** [Where the data came from]
+2. **Data Cleaning:** [Nulls, duplicates, data types, outliers]
+3. **Exploratory Analysis:** [Distributions, correlations, segments]
+4. **Analysis / Modeling:** [SQL queries, statistical tests, ML models]
+5. **Visualization & Reporting:** [Charts, dashboard, summary]
+
 ---
 
 ## 📁 Project Structure
@@ -159,25 +177,6 @@ This project analyzes **7,043 customer records** from a telecommunications compa
 **Common Interview Questions:** See [PORTFOLIO_QA.md](PORTFOLIO_QA.md) for 27 detailed Q&A
 
 ---
-
-## 🧰 Tools & Technologies
-| Stage | Tool | Purpose |
-|-------|------|---------|
-| Data Storage / Querying | **MySQL** | [Joins, aggregation, window functions] |
-| Cleaning & Analysis | **Python (Pandas, NumPy)** | [Missing values, feature engineering] |
-| Quick Exploration / Reporting | **Excel** | [Pivot tables, summary sheets] |
-| Visualization | **Matplotlib / Plotly / Power BI** | [Charts and dashboards] |
-| Automation | **AI tools (ChatGPT / Claude / n8n)** | [Code assist, report drafting, workflow automation] |
-
----
-
-## 🔬 Methodology
-1. **Data Collection:** [Where the data came from]
-2. **Data Cleaning:** [Nulls, duplicates, data types, outliers]
-3. **Exploratory Analysis:** [Distributions, correlations, segments]
-4. **Analysis / Modeling:** [SQL queries, statistical tests, ML models]
-5. **Visualization & Reporting:** [Charts, dashboard, summary]
-
 
 ## 🔄 My Future Enhancements Plan
 
