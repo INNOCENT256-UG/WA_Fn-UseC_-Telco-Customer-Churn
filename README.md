@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=2F81F7&vCenter=true&width=750&height=60&lines=👋+Hi,+I'm+Innocent+Watsala;📊+Data+Analyst+%7C+Business+Intelligence+%7C+Python)](https://github.com/INNOCENT256-UG)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=2F81F7&vCenter=true&width=750&height=60&lines=👋+Hi,+I'm+Innocent+Watsala;📊+Data+Analyst+%7C+Business+Intelligence+%7C+AI-AUTOMATION)](https://github.com/INNOCENT256-UG)
 
 🔗 [GitHub Profile](https://github.com/INNOCENT256-UG) | 📊 [Portfolio](https://github.com/INNOCENT256-UG?tab=repositories)
 
