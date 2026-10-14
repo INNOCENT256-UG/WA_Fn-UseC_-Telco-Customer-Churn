@@ -15,14 +15,13 @@ I transform raw data into actionable business insights.
   
 - [TITANIC_DATA_ANALYSIS](https://github.com/INNOCENT256-UG/TITANIC_DATA_ANALYSIS/tree/main)-Titanic Survival Analysis
   
-- [INVENTORY MANAGEMENT](https://github.com/INNOCENT256-UG/INVENTORY-MANAGEMENT)
-  
+- [INVENTORY MANAGEMENT](https://github.com/INNOCENT256-UG/INVENTORY-MANAGEMENT) - A comprehensive Business Intelligence solution built with Python, Pandas, and OpenPyXL that simulates a complete CRM, sales pipeline, customer management, and inventory monitoring system. This dashboard produces a professionally formatted Excel workbook with KPIs, visualizations, pivot summaries, and automated insights designed for operational and executive review.
+
 - [More projects coming soon...]
 
 **📫 Connect:**
 - LinkedIn: [Watsala.Digital](https://linkedin.com/in/Watsala.Digital)
 - Email: Watsala.Digital@gmail.com
-
 
 
 # 🎯 Telco Customer Churn Analysis
