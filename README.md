@@ -7,7 +7,7 @@ I transform raw data into actionable business insights.
 **💼 Projects:**
 - [Telco Customer Churn Analysis](https://github.com/yourusername/telco-churn-analysis)- Identified $328K annual savings opportunity
 
-- [PK-Market-Price](https://github.com/INNOCENT256-UG/PK-Foods-Price-Analysis) -Analyzing-Paskistani-Food-Market-Prices
+- [PK-Market-Price](https://github.com/INNOCENT256-UG/PK-Foods-Price-Analysis) - The project addresses that gap by consolidating 1,100 price records from 10 major Pakistani cities into a structured analytical framework. The dashboard transforms raw market survey data into actionable insights that drive pricing strategy, supply chain optimization, and market expansion decisions.
   
 - [SFO-Air-Traffic-Cargo-Statistics](https://github.com/INNOCENT256-UG/-SFO-Air-Traffic-Cargo-Statistics-Data-Analysis-Project) - ransforming 26 years of raw SFO cargo operational data into actionable business intelligence — enabling data-driven decisions for airport operations, airline partnerships, and cargo route optimization.
   
