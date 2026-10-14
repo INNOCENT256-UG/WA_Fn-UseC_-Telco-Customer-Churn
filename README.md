@@ -6,11 +6,16 @@ I transform raw data into actionable business insights.
 
 **💼 Projects:**
 - [Telco Customer Churn Analysis](https://github.com/yourusername/telco-churn-analysis)- Identified $328K annual savings opportunity
-- [CRM](https://github.com/INNOCENT256-UG/Managing-Employee-Data-with-Intergrity) - A cleaned and structured HR/CRM employee dataset covering 20 employees across 11 countries and 10 departments. Prepared for analytics, reporting, and data pipeline projects.
+
 - [PK-Market-Price](https://github.com/INNOCENT256-UG/PK-Foods-Price-Analysis) -Analyzing-Paskistani-Food-Market-Prices
+  
 - [SFO-Air-Traffic-Cargo-Statistics](https://github.com/INNOCENT256-UG/-SFO-Air-Traffic-Cargo-Statistics-Data-Analysis-Project) - ransforming 26 years of raw SFO cargo operational data into actionable business intelligence — enabling data-driven decisions for airport operations, airline partnerships, and cargo route optimization.
+  
 - [Running-Local-LLMs-on-a-ThinkPad-T480](https://github.com/INNOCENT256-UG/Running-Local-LLMs-on-a-ThinkPad-T480)
+  
 - [TITANIC_DATA_ANALYSIS](https://github.com/INNOCENT256-UG/TITANIC_DATA_ANALYSIS/tree/main)-Titanic Survival Analysis
+  
+- [INVENTORY MANAGEMENT](https://github.com/INNOCENT256-UG/INVENTORY-MANAGEMENT)
   
 - [More projects coming soon...]
 
@@ -28,6 +33,12 @@ I transform raw data into actionable business insights.
 ![Summary_report](Graph/Churn%20dashboard.png)
 *Insight: Dashboard Summary
 
+---
+
+## 📊 Project Overview
+
+This project analyzes **7,043 customer records** from a telecommunications company to understand customer churn patterns and identify actionable retention strategies. Through systematic data analysis, I uncovered high-risk customer segments and provided data-driven recommendations that could reduce churn by 20%, saving **$328,130 annually**.
+
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-1.5%2B-green)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.12%2B-orange)    
@@ -43,12 +54,6 @@ I transform raw data into actionable business insights.
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
 ![Last Updated](https://img.shields.io/badge/Updated-October_2026-blue?style=flat-square)
 
-
----
-
-## 📊 Project Overview
-
-This project analyzes **7,043 customer records** from a telecommunications company to understand customer churn patterns and identify actionable retention strategies. Through systematic data analysis, I uncovered high-risk customer segments and provided data-driven recommendations that could reduce churn by 20%, saving **$328,130 annually**.
 
 ### 🎯 Key Metrics
 
