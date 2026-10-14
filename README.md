@@ -13,9 +13,10 @@ I transform raw data into actionable business insights.
   
 - [Running-Local-LLMs-on-a-ThinkPad-T480](https://github.com/INNOCENT256-UG/Running-Local-LLMs-on-a-ThinkPad-T480)
   
-- [TITANIC_DATA_ANALYSIS](https://github.com/INNOCENT256-UG/TITANIC_DATA_ANALYSIS/tree/main)-Titanic Survival Analysis
+- [TITANIC_DATA_ANALYSIS](https://github.com/INNOCENT256-UG/TITANIC_DATA_ANALYSIS/tree/main)- **
+This project performs an end-to-end analysis of the Titanic survival dataset, answering critical historical questions while building and comparing multiple machine learning models to predict passenger survival.
   
-- [INVENTORY MANAGEMENT](https://github.com/INNOCENT256-UG/INVENTORY-MANAGEMENT) - A comprehensive Business Intelligence solution built with Python, Pandas, and OpenPyXL that simulates a complete CRM, sales pipeline, customer management, and inventory monitoring system. This dashboard produces a professionally formatted Excel workbook with KPIs, visualizations, pivot summaries, and automated insights designed for operational and executive review.
+- [INVENTORY MANAGEMENT](https://github.com/INNOCENT256-UG/INVENTORY-MANAGEMENT) - ** A comprehensive Business Intelligence solution built with Python, Pandas, and OpenPyXL that simulates a complete CRM, sales pipeline, customer management, and inventory monitoring system. This dashboard produces a professionally formatted Excel workbook with KPIs, visualizations, pivot summaries, and automated insights designed for operational and executive review.
 
 - [More projects coming soon...]
 
