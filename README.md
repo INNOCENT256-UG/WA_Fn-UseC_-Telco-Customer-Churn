@@ -18,7 +18,7 @@ This project performs an end-to-end analysis of the Titanic survival dataset, an
   
 - [INVENTORY MANAGEMENT](https://github.com/INNOCENT256-UG/INVENTORY-MANAGEMENT) - ** A comprehensive Business Intelligence solution built with Python, Pandas, and OpenPyXL that simulates a complete CRM, sales pipeline, customer management, and inventory monitoring system. This dashboard produces a professionally formatted Excel workbook with KPIs, visualizations, pivot summaries, and automated insights designed for operational and executive review.
 
--[B2B-SALES---INVOICES](https://github.com/INNOCENT256-UG/B2B-SALES---INVOICES)
+- [B2B-SALES---INVOICES](https://github.com/INNOCENT256-UG/B2B-SALES---INVOICES) - ** This project turns raw transactional invoice data into an executive-ready sales intelligence dashboard. Instead of forcing business users to inspect rows of data manually, it summarizes the numbers into clear KPIs and visual insights that answer the questions leaders actually care about.
 
 - [More projects coming soon...]
 
